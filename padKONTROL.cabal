@@ -18,4 +18,4 @@ cabal-version:       >=1.8
 library
   exposed-modules:     UI.PadKontrol, UI.PadKontrol.Types
   -- other-modules:       
-  build-depends:       base ==4.*, hmidi ==0.*, minioperational ==0.1.*, transformers ==0.3.*, containers ==0.5.*
+  build-depends:       base ==4.*, hmidi ==0.*, minioperational ==0.2.*, transformers ==0.3.*, containers ==0.5.*
